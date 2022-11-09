@@ -3,7 +3,7 @@
 <h3 align="center">A passionate full-stack from Colombia.❤️‍🔥</h3>
 
 - 🌱 I’m currently learning **Women's Bootcamp at Tech Glovo & KeepCoding**
-- 💞️ I’m looking to collaborate on interested projects about technology.
+- 💞️ I’m looking to collaborate on projects about technology.
 - I’m interested in the tech world and all can do with this. (I will conquer the world 🧝🏻‍♀️ )
 
 - 👨‍💻 All of my projects are available at [https://github.com/NicoleMantilla](https://github.com/NicoleMantilla)
