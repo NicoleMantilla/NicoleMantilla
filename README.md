@@ -1,5 +1,5 @@
 # NicoleFullStack
-<h1 align="center">👋 Hi, I’m @NicoleMantilla</h1>
+<h1 align="center"> Hi, I’m @NicoleMantilla 🖖🏻 </h1>
 <h3 align="center">A passionate full-stack from Colombia.❤️‍🔥</h3>
 
 - 🌱 I’m currently learning **Women's Bootcamp at Tech Glovo & KeepCoding**
