@@ -8,9 +8,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/NicoleMantilla](https://github.com/NicoleMantilla)
 
-- 📫 How to reach me **[Linkedin](https://www.linkedin.com/in/nicole-mantillaf/)**
+- 📫 How to reach me **[Linkedin](https://www.linkedin.com/in/nicole-mantillaf/)** .
 
-- ⚡ Fun fact **videogames, photography,reading books, take a good tea and overthink psychoanalysis 🔮**
+- ⚡ Fun fact i like **videogames, photography,reading books, take a good tea and overthink psychoanalysis 🔮**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
