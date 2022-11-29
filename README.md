@@ -13,7 +13,9 @@
 - ⚡ Fun fact i like **videogames, photography,reading books,cinema, take a good tea and overthinking with psychoanalysis.🔮**.
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+
+<p https://www.linkedin.com/in/nicole-mantillaf/ 
+align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
