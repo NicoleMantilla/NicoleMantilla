@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Women's Bootcamp at Tech Glovo & KeepCoding**
 - 💞️ I’m looking to collaborate on projects about technology.
-- I’m interested in the tech world and all i can do with this. (I will conquer the world 🧝🏻‍♀️ )
+- I’m interested in the tech world and all i can do with this. 🧝🏻‍♀️ 
 
 - 👨‍💻 All of my projects are available at [https://github.com/NicoleMantilla](https://github.com/NicoleMantilla)
 
