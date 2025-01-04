@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **[Linkedin](https://www.linkedin.com/in/nicole-mantillaf/)** .
 
-- ⚡ Fun fact i like **videogames, photography,reading books,cinema, take a good tea and overthinking with psychoanalysis.🔮**.
+- ⚡ Fun fact i like **surfing, photography,reading books, take a good tea and psychoanalysis.🔮**.
 
 <h3 align="left">Connect with me:</h3>
 
