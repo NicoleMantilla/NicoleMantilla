@@ -1,19 +1,19 @@
 # NicoleFullStack
 <h1 align="center"> Hi, I’m @NicoleMantilla 🖖🏻 </h1>
-<h3 align="center">A passionate full-stack from Colombia.❤️‍🔥</h3>
+<h3 align="center">A passionate full-stack.❤️‍🔥</h3>
 
 - 💞️ I’m looking to collaborate on projects about technology.
-- I’m interested in the tech world and all i can do with this. 🧝🏻‍♀️ 
+- I’m interested in the tech world and all I can do with this. 🧝🏻‍♀️ 
 
 - 👨‍💻 All of my projects are available at [https://github.com/NicoleMantilla](https://github.com/NicoleMantilla)
 
 - 📫 How to reach me **[Linkedin](https://www.linkedin.com/in/nicole-mantillaf/)** .
 
-- ⚡ Fun fact i like **surfing, photography,reading books, take a good tea and psychoanalysis.🔮**.
+- ⚡ Fun fact I like **surfing, photography, reading books, taking a good tea, and psychoanalysis.🔮**.
 
 <h3 align="left">Connect with me:</h3>
 
-<p https://www.linkedin.com/in/nicole-mantillaf/ 
+<p https://www.linkedin.com/in/nicole-mantillaf](https://www.linkedin.com/in/nicole-mantillaf/
 align="left">
 </p>
 
