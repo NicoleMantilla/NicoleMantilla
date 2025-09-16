@@ -2,7 +2,6 @@
 <h1 align="center"> Hi, I’m @NicoleMantilla 🖖🏻 </h1>
 <h3 align="center">A passionate full-stack from Colombia.❤️‍🔥</h3>
 
-- 🌱 Actually I have finished  **Women's Bootcamp at Tech Glovo & KeepCoding**
 - 💞️ I’m looking to collaborate on projects about technology.
 - I’m interested in the tech world and all i can do with this. 🧝🏻‍♀️ 
 
